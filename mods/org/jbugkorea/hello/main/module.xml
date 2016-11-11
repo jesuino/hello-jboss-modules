@@ -3,4 +3,7 @@
     <resources>
         <resource-root path="hello.jar"/>
     </resources>
+    <dependencies>
+        <module name="javafx"/>
+    </dependencies>
 </module>
